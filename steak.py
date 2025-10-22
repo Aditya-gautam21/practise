@@ -1,3 +1,1 @@
-#15/10/25
-16/10/25
-18/10/25
+#practisinging my ai/ml skills
