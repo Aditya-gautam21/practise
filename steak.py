@@ -1,1 +1,1 @@
-#practisinging my ai/ml skills
+#practising my ai/ml skills
